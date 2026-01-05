@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Demo.java"/>
+	<classpathentry kind="src" path="hibernate-project/src/main/java"/>
+	<classpathentry kind="src" path="hibernate-project/src/test/java"/>
+	<classpathentry kind="src" path="jdbc-project-01/src/main/java"/>
+	<classpathentry kind="src" path="jdbc-project-01/src/test/java"/>
+	<classpathentry kind="src" path="kodekart/src/main/java"/>
+	<classpathentry kind="src" path="order-module-kafka/src/main/java"/>
+	<classpathentry kind="src" path="order-module-kafka/src/test/java"/>
+	<classpathentry kind="src" path="reseller-management-system/src/main/java"/>
+	<classpathentry kind="src" path="spring-web-mvc-request-data/src/main/java"/>
+	<classpathentry kind="src" path="spring-web-mvc-request-response-data/src/main/java"/>
+	<classpathentry kind="src" path="spring-web-mvc-sample01/src/main/java"/>
+	<classpathentry kind="output" path="hibernate-project/target/classes"/>
+</classpath>
